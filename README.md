@@ -7,7 +7,7 @@ The project involved some advanced data engineering. We gathered information usi
 
 <h2> Chatbot using ChatGPT format: </h2>
 
-<img src="https://github.com/waleedjmm/gpt3-application/blob/main/Chatbot.png" />
+<img src="College 1.png" />
 <br />
 
 <h2> DALL-E Text to Image Module: </h2>  
