@@ -10,9 +10,6 @@ The project involved some advanced data engineering. We gathered information usi
 <img src="College 1.png" />
 <br />
 
-<h2> DALL-E Text to Image Module: </h2>  
-<img src="https://github.com/waleedjmm/gpt3-application/blob/main/DALL-E.png" />
-<br />
 
-<h2> Question/Answering and Interview Preparation Module: </h2>  
-<img src="https://github.com/waleedjmm/gpt3-application/blob/main/Question%20Asnwering.png" />
+<img src="College 2.png" />
+
