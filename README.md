@@ -12,3 +12,7 @@ The project involved some advanced data engineering. We gathered information usi
 
 
 <img src="College 2.png" />
+
+<h2>Demo Video</h2>
+
+You can watch the video here: [Demo Video](https://github.com/waleedjmm/College-Football-Prediction/blob/dda1bdabbd44b6d0a03a5948d34ba3d3d5c37128/College%20Football%20Prediction%20Demo.mp4)
