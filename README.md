@@ -5,11 +5,10 @@ The project involved some advanced data engineering. We gathered information usi
 
 
 
-<h2> Chatbot using ChatGPT format: </h2>
+<h2> Demo Pics of the application </h2>
 
 <img src="College 1.png" />
 <br />
 
 
 <img src="College 2.png" />
-
